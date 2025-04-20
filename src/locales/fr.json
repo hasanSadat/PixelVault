@@ -1,0 +1,59 @@
+{
+  "home": {
+    "title": "Découvrez des photos incroyables",
+    "description": "Parcourez des images époustouflantes ou trouvez exactement ce que vous cherchez grâce à notre recherche efficace."
+  },
+  "favorites": {
+    "title": "Vos photos préférées ❤️",
+    "description": "Une sélection des photos que vous adorez !",
+    "clearAll": "Effacer tous les favoris"
+  },
+  "explore": {
+    "categories": [
+      "Animaux",
+      "Nature",
+      "Personnes",
+      "Nourriture",
+      "Sports",
+      "Art",
+      "Mode",
+      "Histoire",
+      "Science",
+      "Espace",
+      "Culture"
+    ],
+    "title": "Découvrez des photos impressionnantes 📸",
+    "description": "Parcourez une grande variété d’images époustouflantes dans différentes catégories. Laissez-vous inspirer à chaque instant !"
+  },
+  "notFound": {
+    "title": "Page non trouvée",
+    "description": "Oups ! La page que vous recherchez n'existe pas ou a été déplacée.",
+    "goBack": "Retour à l'accueil"
+  },
+  "search": {
+    "search": "Rechercher",
+    "title": "🔍 Recherchez des photos",
+    "description": "Tapez un mot-clé et découvrez des images surprenantes !",
+    "resultsTitle": "Recherche de",
+    "resultsDescription": "Allons chercher des images incroyables pour vous ! 💖",
+    "placeholder": "Rechercher des images...",
+    "clearHistory": "Effacer l'historique de recherche",
+    "noResults": "Aucun résultat trouvé pour .",
+    "noImages": "Aucune image trouvée pour .",
+    "correctSearch": "Pour une meilleure expérience, cherchez en anglais."
+  },
+  "gallery": {
+    "seeMore": "Voir plus d'images",
+    "newImages": "Nouvelles images",
+    "loading": "Chargement des images..."
+  },
+  "loading": "Chargement... 🚴‍♂️",
+  "errors": {
+    "ERR_NETWORK": "Erreur réseau : Veuillez vérifier votre connexion.",
+    "ERR_TIMEOUT": "Erreur de délai d'attente : La requête a pris trop de temps.",
+    "ERR_INVALID_QUERY": "Requête invalide : Vérifiez votre saisie.",
+    "ERR_ACCESS_DENIED": "Accès refusé : Vous n’avez pas la permission d’accéder à cette ressource.",
+    "ERR_SERVER": "Erreur du serveur : Le serveur a rencontré un problème. Veuillez réessayer plus tard.",
+    "UNKNOWN": "Une erreur inattendue est survenue. Veuillez réessayer."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "home": {
+    "title": "Explore Stunning Photography",
+    "description": "Discover breathtaking images or find exactly what you're looking for with our powerful search."
+  },
+  "favorites": {
+    "title": "Your Favorite Collection ❤️",
+    "description": "A collection of photos that you love the most!",
+    "clearAll": "Clear All Favorites"
+  },
+  "explore": {
+    "categories": [
+      "Animals",
+      "Nature",
+      "People",
+      "Food",
+      "Sports",
+      "Art",
+      "Fashion",
+      "History",
+      "Science",
+      "Space",
+      "Culture"
+    ],
+    "title": "Discover Stunning Photography 📸",
+    "description": "Explore a wide variety of breathtaking images across diverse categories. Enjoy browsing through and find inspiration everywhere!"
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "Oops! The page you’re looking for doesn’t exist or has been moved.",
+    "goBack": "Go Back Home"
+  },
+  "search": { "search" :"Search",
+    "title": "🔍 Search for Photos",
+    "description": "Type a keyword and explore amazing images!",
+    "resultsTitle": "Searching for",
+    "resultsDescription": "Let’s find some stunning images for you! 💖",
+    "placeholder": "Search for images...",
+    "clearHistory": "Clear All Searches",
+    "noResults": "No results found ",
+    "noImages": "No images found ",
+    "correctSearch":"for better experience search English"
+  },
+  "gallery": {
+    "seeMore": "See more images",
+    "newImages": "New images",
+    "loading": "Loading images..."
+  },
+  "loading":"Loading... 🚴‍♂️",
+  "errors": {
+    "ERR_NETWORK": "Network Error: Please check your connection.",
+    "ERR_TIMEOUT": "Timeout Error: The request took too long to respond.",
+    "ERR_INVALID_QUERY": "Invalid Query: Please check your search input.",
+    "ERR_ACCESS_DENIED": "Access Denied: You do not have permission to access this resource.",
+    "ERR_SERVER": "Server Error: The server encountered an issue. Please try again later.",
+    "UNKNOWN": "An unexpected error occurred. Please try again."
+  }
+}

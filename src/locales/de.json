@@ -1,0 +1,59 @@
+{
+  "home": {
+    "title": "Entdecke beeindruckende Fotos",
+    "description": "Finde atemberaubende Bilder oder genau das, was du suchst – mit unserer super Suche!"
+  },
+  "favorites": {
+    "title": "Deine Lieblingskollektion ❤️",
+    "description": "Hier findest du deine Lieblingsfotos!",
+    "clearAll": "Alle Favoriten löschen"
+  },
+  "explore": {
+    "categories": [
+      "Tiere",
+      "Natur",
+      "Menschen",
+      "Essen",
+      "Sport",
+      "Kunst",
+      "Mode",
+      "Geschichte",
+      "Wissenschaft",
+      "Weltraum",
+      "Kultur"
+    ],
+    "title": "Entdecke beeindruckende Fotografie 📸",
+    "description": "Erkunde eine große Auswahl an tollen Bildern aus verschiedensten Kategorien. Viel Spaß beim Stöbern und lass dich inspirieren!"
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "description": "Ups! Die gesuchte Seite gibt es nicht oder sie wurde verschoben.",
+    "goBack": "Zurück zur Startseite"
+  },
+  "search": {
+    "search": "Suchen",
+    "title": "🔍 Suche nach Fotos",
+    "description": "Gib ein Stichwort ein und entdecke tolle Bilder!",
+    "resultsTitle": "Suche nach",
+    "resultsDescription": "Lass uns ein paar beeindruckende Bilder für dich finden! 💖",
+    "placeholder": "Fotos suchen...",
+    "clearHistory": "Suchverlauf löschen",
+    "noResults": "Keine Ergebnisse gefunden für .",
+    "noImages": "Keine Bilder gefunden für .",
+    "correctSearch": "Für ein besseres Erlebnis, suche auf Englisch."
+  },
+  "gallery": {
+    "seeMore": "Mehr Bilder ansehen",
+    "newImages": "Neue Bilder",
+    "loading": "Bilder werden geladen..."
+  },
+  "loading": "Lade... 🚴‍♂️",
+  "errors": {
+    "ERR_NETWORK": "Netzwerkfehler: Bitte überprüfe deine Verbindung.",
+    "ERR_TIMEOUT": "Zeitüberschreitung: Die Anfrage hat zu lange gedauert.",
+    "ERR_INVALID_QUERY": "Ungültige Anfrage: Bitte überprüfe deine Sucheingabe.",
+    "ERR_ACCESS_DENIED": "Zugriff verweigert: Du hast keine Berechtigung, diese Ressource zu nutzen.",
+    "ERR_SERVER": "Serverfehler: Der Server hatte ein Problem. Versuche es später nochmal.",
+    "UNKNOWN": "Ein unerwarteter Fehler ist aufgetreten. Bitte versuche es erneut."
+  }
+}

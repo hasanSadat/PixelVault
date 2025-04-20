@@ -1,0 +1,60 @@
+{
+  "home": {
+    "title": "Explora fotos increíbles",
+    "description": "Encuentra imágenes sorprendentes o busca exactamente lo que necesitas. ¡Es muy fácil!"
+  },
+  "favorites": {
+    "title": "Tus fotos favoritas ❤️",
+    "description": "Aquí están las fotos que más te encantan. ¡Disfrútalas!",
+    "clearAll": "Eliminar todos los favoritos"
+  },
+  "explore": {
+    "categories": [
+      "Animales",
+      "Naturaleza",
+      "Personas",
+      "Comida",
+      "Deportes",
+      "Arte",
+      "Moda",
+      "Historia",
+      "Ciencia",
+      "Espacio",
+      "Cultura"
+    ],
+    "title": "Descubre fotos geniales 📸",
+    "description": "Explora cientos de imágenes en distintas categorías. ¡Inspírate y encuentra algo nuevo!"
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "description": "¡Vaya! Parece que esta página ya no existe o se movió.",
+    "goBack": "Regresar al inicio"
+  },
+  "search": {
+    "search": "Buscar",
+    "title": "🔍 Encuentra fotos geniales",
+    "description": "Escribe lo que buscas y descubre imágenes increíbles.",
+    "resultsTitle": "Buscando:",
+    "resultsDescription": "Estamos buscando las mejores fotos para ti 💖.",
+    "placeholder": "Escribe algo para buscar...",
+    "clearHistory": "Borrar todo el historial",
+    "noResults": "No encontramos resultados para .",
+    "noImages": "No hay imágenes que coincidan con .",
+    "errorMessage": "{{error}}",
+    "correctSearch": "Para mejores resultados, busca en inglés."
+  },
+  "gallery": {
+    "seeMore": "Ver más fotos",
+    "newImages": "Imágenes recién añadidas",
+    "loading": "Cargando las mejores imágenes..."
+  },
+  "loading": "Un momento, por favor... 🚴‍♂️",
+  "errors": {
+    "ERR_NETWORK": "Parece que hay un problema con tu conexión. Por favor, revísala.",
+    "ERR_TIMEOUT": "Esto tomó demasiado tiempo. Intenta de nuevo.",
+    "ERR_INVALID_QUERY": "Hmm, parece que algo no está bien con tu búsqueda. Revísala y prueba de nuevo.",
+    "ERR_ACCESS_DENIED": "No puedes acceder a este recurso. Verifica tus permisos.",
+    "ERR_SERVER": "Hubo un problema con el servidor. Inténtalo más tarde, estamos en ello.",
+    "UNKNOWN": "Algo inesperado ocurrió. ¡Vuelve a intentarlo!"
+  }
+}

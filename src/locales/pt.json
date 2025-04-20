@@ -1,0 +1,59 @@
+{
+  "home": {
+    "title": "Explore fotos incríveis",
+    "description": "Encontre imagens impressionantes ou descubra exatamente o que procura com nossa busca super potente."
+  },
+  "favorites": {
+    "title": "Sua Coleção Favorita ❤️",
+    "description": "Uma coleção das fotos que você mais ama!",
+    "clearAll": "Limpar todos os favoritos"
+  },
+  "explore": {
+    "categories": [
+      "Animais",
+      "Natureza",
+      "Pessoas",
+      "Comida",
+      "Esportes",
+      "Arte",
+      "Moda",
+      "História",
+      "Ciência",
+      "Espaço",
+      "Cultura"
+    ],
+    "title": "Descubra fotografias incríveis 📸",
+    "description": "Explore uma grande variedade de imagens impressionantes em diversas categorias. Navegue e inspire-se a cada detalhe!"
+  },
+  "notFound": {
+    "title": "Página Não Encontrada",
+    "description": "Ops! A página que você procura não existe ou foi movida.",
+    "goBack": "Voltar para a Página Inicial"
+  },
+  "search": {
+    "search": "Pesquisar",
+    "title": "🔍 Procure por Fotos",
+    "description": "Digite uma palavra-chave e descubra fotos incríveis!",
+    "resultsTitle": "Pesquisando por",
+    "resultsDescription": "Vamos encontrar fotos incríveis para você! 💖",
+    "placeholder": "Pesquise por imagens...",
+    "clearHistory": "Limpar todo o histórico",
+    "noResults": "Nenhum resultado encontrado para .",
+    "noImages": "Nenhuma imagem encontrada para .",
+    "correctSearch": "Para melhor experiência, pesquise em inglês."
+  },
+  "gallery": {
+    "seeMore": "Ver mais fotos",
+    "newImages": "Novas fotos",
+    "loading": "Carregando fotos..."
+  },
+  "loading": "Carregando... 🚴‍♂️",
+  "errors": {
+    "ERR_NETWORK": "Erro de rede: Verifique sua conexão.",
+    "ERR_TIMEOUT": "Erro de tempo limite: A solicitação demorou demais.",
+    "ERR_INVALID_QUERY": "Consulta inválida: Verifique sua pesquisa.",
+    "ERR_ACCESS_DENIED": "Acesso negado: Você não tem permissão para acessar este recurso.",
+    "ERR_SERVER": "Erro do servidor: Ocorreu um problema. Tente novamente mais tarde.",
+    "UNKNOWN": "Ocorreu um erro inesperado. Por favor, tente novamente."
+  }
+}
