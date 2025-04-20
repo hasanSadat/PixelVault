@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import { motion } from "framer-motion";
 import { FiDownload } from "react-icons/fi";
-import LikeImage from "../favorite/likeImage";
+import LikeImage from "../favorite/LikeImage";
 import ImageDetailContext from "../../context/ImageDetailContext";
 
 function ImageViewer() {
