@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom";
-import LikeImage from "../favorite/LikeImage";
+import LikeImage from "../favorite/likeImage";
 
 
 function ImageCard({
