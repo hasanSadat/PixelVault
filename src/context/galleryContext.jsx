@@ -1,5 +1,5 @@
 import { createContext, useState } from "react";
-import { RandomImages, searchImages } from "../services/api";
+import { randomImages, searchImages } from "../services/api";
 import { handleError } from "../utils/handleError";
 import { useTranslation } from "react-i18next";
 
@@ -69,7 +69,7 @@ export function GalleryContextProvider({ children }) {
         setLoading(false);
         return;
       } else {
-        const data = await RandomImages(numOfImg);
+        const data = await randomImages(numOfImg);
 
         if (data.error) {
           const errorMassage = handleError(t, data.error.code);
@@ -99,7 +99,7 @@ export function GalleryContextProvider({ children }) {
       setError(null);
       setShowError(false);
 
-      const newImages = await RandomImages(numOfImg);
+      const newImages = await randomImages(numOfImg);
 
       if (
         newImages.error ||

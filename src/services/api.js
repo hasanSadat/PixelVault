@@ -18,7 +18,7 @@ export const searchImages = async (query) => {
   }
 };
 
-export const RandomImages = async (count = 12) => {
+export const randomImages = async (count = 12) => {
   try {
     const response = await apiClient.get("/photos/random", {
       params: { count },
